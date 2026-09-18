@@ -48,7 +48,8 @@ Regional trend analysis for network infrastructure decisions
 Feel free to connect with me on LinkedIn for collaboration or opportunities in data analysis, banking operations, or MIS reporting.
 ShareContentATM MIS Report.xlsxls
 
+
 ```
 ## 📸 Dashboard Preview
 
-![ATM MIS Dashboard.JPG](./ATM MIS Dashboard.JPG)
+![ATM MIS Dashboard.JPG](./dashboard-ATM MIS Dashboard.JPG)
